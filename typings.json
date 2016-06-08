@@ -1,9 +1,4 @@
 {
-  "ambientDependencies": {
-    "mixto": "registry:dt/mixto#0.0.0+20160317120654",
-    "mocha": "registry:dt/mocha#2.2.5+20160317120654",
-    "node": "registry:dt/node#4.0.0+20160319033040"
-  },
   "dependencies": {
     "bluebird": "registry:npm/bluebird#3.3.4+20160531224558",
     "chai": "registry:npm/chai#3.5.0+20160415060238",
