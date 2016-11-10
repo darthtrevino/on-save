@@ -47,7 +47,7 @@
     "lodash": "^4.13.1",
     "minimatch": "^3.0.0",
     "typescript": "^1.8.10",
-    "typings": "^1.0.4"
+    "typings": "^2.0.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
