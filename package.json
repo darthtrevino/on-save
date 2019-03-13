@@ -54,7 +54,7 @@
     "codeclimate-test-reporter": "^0.3.2",
     "istanbul": "^0.4.3",
     "mocha": "^2.5.3",
-    "tslint": "^5.13.1"
+    "tslint": "^5.14.0"
   },
   "consumedServices": {
     "status-bar": {
